@@ -2,7 +2,7 @@
 
 # PROJECT SUMMARY
 
-I created this project for a school assignment for Data Structures and Algorithms II class. It includes command line application built in Python to simulate a package delivery system. It uses csv file of packages with various delivery constraints and marked which trucks they will be loaded on. It also uses a csv file of an adjacency matrix of distances from each location the packages must be delivered. The program uses a Nearest Neighbor algorithm to find the the closest location to visit next, deliver all packages at that collection and keep repeating until all locations are visited once, and returns to the HUB.
+I created this project for a school assignment for Data Structures and Algorithms II class. It includes command line application built in Python to simulate a package delivery system. It uses csv file of packages with various delivery constraints and marked which trucks they will be loaded on. It also uses a csv file of an adjacency matrix of distances from each location the packages must be delivered. The program uses a Nearest Neighbor algorithm to find the the closest location to visit next, deliver all packages at that location and keep repeating until all locations are visited once, and returns to the HUB.
 
 # USAGE
 
