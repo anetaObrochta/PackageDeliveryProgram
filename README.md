@@ -20,7 +20,8 @@ depending on python version^^^
 
 From there you should see the Command Line Interface like this:
 
-![CLI Start](https://github.com/anetaObrochta/PackageDeliveryRoutingProgram/assets/141801067/919ffdb1-091e-49ca-b65b-5e4dc8216907)
+![CLI Start](https://github.com/anetaObrochta/PackageDeliveryProgram/assets/141801067/a2e08912-c50e-4da7-8a71-17e6e6b80c57)
+
 
 # PROJECT SCENARIO
 
@@ -49,7 +50,9 @@ Take into consideration the specific delivery time expected for each package and
 
 # CLI EXAMPLES
 **Status check of all packages at 10:21 AM**
-![status check at 1021 am](https://github.com/anetaObrochta/PackageDeliveryRoutingProgram/assets/141801067/e8845103-bb15-4a13-92e1-a4dc587a88e6)
+![status check at 1021 am](https://github.com/anetaObrochta/PackageDeliveryProgram/assets/141801067/4209342b-9421-4c68-a880-740c5c437c84)
+
 
 **Checking specific package based on package ID**
-![CLI](https://github.com/anetaObrochta/PackageDeliveryRoutingProgram/assets/141801067/288215e7-02ed-40a4-a6e1-618bfc31f825)
+![CLI](https://github.com/anetaObrochta/PackageDeliveryProgram/assets/141801067/4b7c5b23-4129-4a78-bfc0-bf6a4ed3958e)
+
